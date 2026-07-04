@@ -1,4 +1,3 @@
-````markdown
 # 🤖 Machine Learning
 
 > A comprehensive collection of Machine Learning algorithms, projects, notebooks, and experiments implemented in Python.
@@ -63,25 +62,25 @@ Machine-Learning/
 
 ## ⚙️ Installation
 
-Clone the repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/MdAshekMahmud/Machine-Learning.git
 ```
 
-Move into the project directory
+Move into the project directory:
 
 ```bash
 cd Machine-Learning
 ```
 
-Create a virtual environment
+Create a virtual environment:
 
 ```bash
 python3 -m venv venv
 ```
 
-Activate the environment
+Activate the environment:
 
 **Linux / macOS**
 
@@ -95,7 +94,7 @@ source venv/bin/activate
 venv\Scripts\activate
 ```
 
-Install dependencies
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -105,13 +104,13 @@ pip install -r requirements.txt
 
 ## ▶️ Running the Project
 
-Run any Python script
+Run any Python script:
 
 ```bash
 python filename.py
 ```
 
-Or open Jupyter Notebook
+Or open Jupyter Notebook:
 
 ```bash
 jupyter notebook
@@ -154,7 +153,7 @@ Contributions, suggestions, and improvements are welcome.
 
 **MD. ASHEK MAHMUD**
 
-GitHub: https://github.com/MdAshekMahmud
+GitHub: [MdAshekMahmud](https://github.com/MdAshekMahmud)
 
 ---
 
@@ -163,4 +162,3 @@ GitHub: https://github.com/MdAshekMahmud
 If you find this repository useful, please consider giving it a ⭐ on GitHub.
 
 It motivates me to continue building and sharing Machine Learning projects.
-````
