@@ -30,17 +30,20 @@ The goal of this repository is to build a strong understanding of Machine Learni
 
 ## 📂 Repository Structure
 
+This repository is structured sequentially to reflect my learning path. Each numbered folder represents a new topic or technique mastered.
+
 ```text
 Machine-Learning/
 │
-├── datasets/           # Datasets used in projects
-├── notebooks/          # Jupyter notebooks
-├── projects/           # Complete ML projects
-├── models/             # Saved models (if any)
-├── images/             # Figures and visualizations
-├── requirements.txt
-├── README.md
-└── .gitignore
+├── 01_Handling_Missing_Values/  # Data cleaning and imputation techniques
+├── 02_Column_Transformer/       # Applying transformations to different features
+├── 03_Pipeline/                 # Chaining preprocessing and modeling steps
+├── 04_Regression/               # Regression algorithms and implementations
+│
+├── datasets/                    # Shared datasets used across various topics
+├── .gitignore                   # Hidden files and virtual environments to ignore
+├── README.md                    # Repository documentation
+└── requirements.txt             # Required Python libraries and dependencies
 ```
 
 ---
